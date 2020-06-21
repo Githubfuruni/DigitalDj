@@ -1,0 +1,16 @@
+Unser Ziel war es, einen digitalen DJ zu machen.
+Dieser kann mittels Motion Capture und dem Programm Max 8 MSP
+die Lautstärke sowie das Panning von 5 Spuren steuern.
+Zusätzlich können verschiedenen Filter eingeschalten werden,
+wobei die linke Handposition des DJs die Frequenz bestimmt. 
+Weiters wird die Abspielgeschwindigkeit der Tracks durch die Kopfbewegung
+des DJs gesteuert – nickt er/sie fester mit, 
+wird die Musik auch schneller und umgekehrt. 
+Die getrackten Motion Capture Marker werden auch visualisiert
+und können auf Wunsch – ebenso wie der live produzierte Track – 
+abgespeichert werden.
+
+SONIFIKATION: Markus Ehmer
+VISUALISIERUNG: Lukas Feichter
+BEWEGUNGSERKENNUNG/FILTER/AUFZEICHNUNG: Stephan Marbacher 
+INTERAKTIONSDESIGN/MOTION CAPTURE: Tanja Ploner
